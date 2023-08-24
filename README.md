@@ -8,5 +8,4 @@
 - [x] Lesson3 C Basics
 - [ ] Lesson3 Assignment
 - [ ] Lesson3 Quiz
-[create an anchor](#anchors-in-markdown)
 
