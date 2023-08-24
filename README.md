@@ -6,6 +6,6 @@
 - [x] Lesson2 Git Toturial
 - [x] Lesson2 Section
 - [x] Lesson3 C Basics
-- [ ] Lesson3 Assignment
+- [x] Lesson3 Assignment
 - [ ] Lesson3 Quiz
 
