@@ -8,7 +8,7 @@
 - [x] Lesson3 C Basics
 - [x] Lesson3 Assignment
 - [x] Lesson3 Quiz
-- [ ] Lesson4 string & array
+- [x] Lesson4 string & array
 - [ ] Lesson4 Assignments
 - [ ] Lesson4 Quiz
 - [ ] C conditions & loops quiz
