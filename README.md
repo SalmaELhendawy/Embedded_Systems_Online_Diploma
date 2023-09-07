@@ -9,7 +9,7 @@
 - [x] Lesson3 Assignment
 - [x] Lesson3 Quiz
 - [x] Lesson4 string & array
-- [ ] Lesson4 Assignments
+- [x] Lesson4 Assignments
 - [ ] Lesson4 Quiz
 - [ ] C conditions & loops quiz
 
